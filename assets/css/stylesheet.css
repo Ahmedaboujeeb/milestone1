@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&display=swap');
+
+
+
+/* --------- Header --------- */
+
+header {
+    margin: 0;
+}
+
+.logo {
+    font-family: "Exo", sans-serif;
+    font-size: 400;
+    font-size: 50px;
+    color: rgb(255, 115, 0);
+    text-decoration: none;
+    width: 100%;
+    float: left;
+}
+
+.no {
+    text-decoration: none;
+}
+
+/* --------- Hero Image --------- */
+
+
+
+/* --------- Body --------- */
+
+
+
+
+/* --------- Footer --------- */
+
+/* --------- General --------- */
+
+.uppercase {
+    text-transform: uppercase;
+}
