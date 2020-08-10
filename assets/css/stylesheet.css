@@ -33,6 +33,22 @@ header {
 
 /* --------- Hero Image --------- */
 
+.hero-image {
+    background: url("../images/hero-image.jpg") no-repeat;
+    position: relative;
+    background-size: cover;
+    background-position: 50% 0;
+    height: 90vh;
+    width: 100%;
+    left: 0;
+    top: 0;
+    justify-content: center;
+    display: felx;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
 
 
 /* --------- Body --------- */
