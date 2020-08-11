@@ -43,6 +43,9 @@ header {
     font-weight: 600;
 }
 
+.float-right {
+    float: right;
+}
 
 
 /* --------- Hero Image --------- */
