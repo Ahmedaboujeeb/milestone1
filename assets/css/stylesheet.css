@@ -55,15 +55,22 @@ header {
     width: 100%;
     left: 0;
     top: 0;
-    margin-bottom: 40px;
+    margin: 0 auto;
     justify-content: center;
     display: block;
     -ms-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
     -webkit-background-size: cover;
+    z-index: 1;
+    background-position: 30% 0;
 }
 
+.hero-image-outer {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
 
 /* --------- Body --------- */
 
