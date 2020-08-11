@@ -11,25 +11,39 @@ header {
 
 .logo {
     font-family: "Exo", sans-serif;
-    font-size: 400;
+    font-weight: 600;
     font-size: 40px;
     color: #ffb4a2;
     text-decoration: none;
     width: 100%;
     float: left;
     letter-spacing: 3px;
+    margin-top: 5px;
 }
 
-.menu li a:hover {
-    color: #ffcdb2;
-    font-size: 23px;
+.container-fluid {
+    margin-left: 0;
+    margin-right: 0;
 }
 
-.menu li a {
+.navbar-light .navbar-nav .nav-link { 
     color: #e5989b;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
+    padding-right: 0;
 }
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #ffcdb2;
+    font-weight: 600;
+}
+
+.navlink .highlight a {
+    color: #ffb5a7;
+    font-weight: 600;
+}
+
+
 
 /* --------- Hero Image --------- */
 
@@ -37,13 +51,13 @@ header {
     background: url("../images/hero-image.jpg") no-repeat;
     position: relative;
     background-size: cover;
-    background-position: 50% 0;
-    height: 90vh;
+    height: 100vh;
     width: 100%;
     left: 0;
     top: 0;
+    margin-bottom: 40px;
     justify-content: center;
-    display: felx;
+    display: block;
     -ms-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -53,6 +67,13 @@ header {
 
 /* --------- Body --------- */
 
+.about-us,
+.why-join-us {
+    padding: 20px 10px 40px 10px;
+    font-family: "Exo", sans-serif;
+    text-align: center;
+}
+
 
 
 
@@ -61,10 +82,11 @@ header {
 footer {
     background-color: #b5838d;
     color: #fafafa;
-    text-align: center;
+    text-align: left;
     padding-left: 5px;
-    margin: 0;
+    margin: 30px 0 0 0;
     min-height: 120px;
+    font-family: "Exo", sans-serif;
 }
 
 footer a {
@@ -94,9 +116,114 @@ footer a {
     background: #6d6875;
 }
 
+.click-here a:hover {
+    color: #6d6875;
+}
+
+footer h5 {
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
 /* --------- General --------- */
 
 .uppercase {
     text-transform: uppercase;
 }
 
+
+/* -------------- Contact Info --------------- */
+
+.contact-info-item {
+    margin-bottom: 5px;
+    display: block;
+    clear: both;
+    text-align: left;
+}
+
+.contact-info-item .key,
+.contact-info-item .value {
+    padding-right: 5px;
+    display: inline-block;
+}
+
+.contact-info-item .key p,
+.contact-info-item .value p {
+    margin: 0;
+}
+
+.contact-info-item .key {
+    width: 30%;
+    margin-right: 5px;
+    padding-top: 2px;
+    vertical-align: top;
+}
+
+.contact-info-item .key p {
+    font-weight: 500;
+}
+
+.contact-info-item .value {
+    position: relative;
+    width: 60%;
+}
+
+.contactus {
+    text-align: left;
+}
+
+.contact-us {
+    margin-bottom: 10px;
+}
+
+
+/* -------------- Table --------------- */
+
+.thead {
+    background-color: #fcd5ce;
+}
+
+.monday {
+    background-color: #f8edeb;
+}
+
+.tuesday {
+    background-color: #f9dcc4;
+}
+
+.wednesday {
+    background-color: #f8edeb;
+}
+
+.thursday {
+    background-color: #f9dcc4;
+}
+
+.friday {
+    background-color: #f8edeb;
+}
+
+.saturday {
+    background-color: #f9dcc4;
+}
+
+.sunday {
+    background-color: #f8edeb;
+}
+
+.hero-image2 {
+    background: url("../images/hero-image2.jpg");
+    position: relative;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin-bottom: 40px;
+    justify-content: center;
+    display: block;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
