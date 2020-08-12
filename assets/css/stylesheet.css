@@ -225,9 +225,10 @@ footer h5 {
     background: url("../images/hero-image2.jpg");
     position: relative;
     background-size: cover;
-    height: 55vh;
+    background-position: center;
+    background-color: rgb(0, 0, 0, 0.5);
+    height: 90vh;
     width: 100%;
-    margin: 0 auto;
     display: block;
     -ms-background-size: cover;
     -o-background-size: cover;
@@ -254,6 +255,15 @@ footer h5 {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #6d6875;
+    color: #fafafa;
     background-color: #e5989b;
+}
+
+.form-control {
+    border:1px solid #bcbbbe;
+    border-radius: 2px;
+}
+
+.form-control:hover {
+    border-color: #e5989b;
 }
