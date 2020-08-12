@@ -79,14 +79,24 @@ header {
 
 .about-us,
 .why-join-us {
-    padding: 20px 10px 40px 10px;
+    padding: 40px 10px 40px 10px;
     font-family: "Exo", sans-serif;
     text-align: center;
+    color: #6d6875;
 }
 
 .container-wrapper {
     background-color: #fadde1;
     padding: 30px 0 30px 0;
+}
+
+.quotes-center {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.quotes {
+    color: #6d6875;
 }
 
 
