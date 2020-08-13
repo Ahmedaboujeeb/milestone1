@@ -205,34 +205,42 @@ footer h5 {
 
 .thead {
     background-color: #fcd5ce;
+    color: #6d6875;
 }
 
 .monday {
     background-color: #f8edeb;
+    color: #6d6875;
 }
 
 .tuesday {
     background-color: #f9dcc4;
+    color: #6d6875;
 }
 
 .wednesday {
     background-color: #f8edeb;
+    color: #6d6875;
 }
 
 .thursday {
     background-color: #f9dcc4;
+    color: #6d6875;
 }
 
 .friday {
     background-color: #f8edeb;
+    color: #6d6875;
 }
 
 .saturday {
     background-color: #f9dcc4;
+    color: #6d6875;
 }
 
 .sunday {
     background-color: #f8edeb;
+    color: #6d6875;
 }
 
 .hero-image2 {
@@ -253,7 +261,7 @@ footer h5 {
 /* -------------- Sign Up --------------- */
 
 .heading {
-    color: #e5989b;
+    color: #6d6875;;
     font-weight: 500;
     text-align: center;
     margin-top: 30px;
