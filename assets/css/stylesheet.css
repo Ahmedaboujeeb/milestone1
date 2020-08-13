@@ -77,6 +77,10 @@ header {
 
 /* --------- Body --------- */
 
+body {
+    font-family: "Exo", sans-serif;
+}
+
 .about-us,
 .why-join-us {
     padding: 40px 10px 40px 10px;
@@ -262,7 +266,7 @@ footer h5 {
 
 .heading {
     color: #6d6875;;
-    font-weight: 500;
+    font-weight: 600;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
