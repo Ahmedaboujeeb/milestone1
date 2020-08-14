@@ -35,7 +35,7 @@ Gym members can find information about the different group training classes, tim
 - Bootstrap
    - Some Bootstrap elements have been used in this project such as grid, navbar, form, etc.
 
-### Other Tools
+### Other Technologies
 
 - VS Code
    - This website's code was written in VS Code.
@@ -43,10 +43,13 @@ Gym members can find information about the different group training classes, tim
 - GitHub
    - Used to store website material and to host the website.
 
-
 - Balsamiq
    - Used for wireframes.
 
-- Font awesome.
+- Font awesome
+   - Used to add icons e.g. social media icons.
 
 - Google fonts.
+
+- Coolors
+   - Used to match colors. 
