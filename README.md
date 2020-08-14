@@ -1,14 +1,12 @@
 # Fitness Gym
 
-Fitness Gym is an amazing gym that's been around for a long time, and offers various kinds of group training classes and admired by a number of athletes.
+[Fitness Gym](https://ahmedaboujeeb.github.io/milestone1/) is an amazing gym that's been around for a long time, and offers various kinds of group training classes and admired by a number of athletes.
 
 This website containes information about the gym, so potential customers can find more information about the gym, where to find it and how to get in contact. They can also sign up from the website, whithout having to go into the gym and fill out paper applications. 
 
 Gym members can find information about the different group training classes, times, days and contact information for the gym in case they need to get in touch to ask about something. They can also see what other gym members think about the gym. 
 
 ## UX
-
-### User stories
 
 #### As a gym memeber...
 
@@ -24,7 +22,11 @@ Gym members can find information about the different group training classes, tim
 - I want to sign up with the gym online so I can save time.
 - I want to see what gym mambers are syaing about the gym so I can know more about the gym.
 
-## Technologies
+## Feature
+
+
+
+## Technologies Used
 
 - HTML5 
    - The project uses HTML5 as the main language.
@@ -46,10 +48,29 @@ Gym members can find information about the different group training classes, tim
 - Balsamiq
    - Used for wireframes.
 
-- Font awesome
-   - Used to add icons e.g. social media icons.
 
-- Google fonts.
+## Testing
 
-- Coolors
-   - Used to match colors. 
+
+## Deployment
+
+   - This project's repository is hosted on GitHub link to repository (https://github.com/ahmedaboujeeb/milestone1). 
+   - This peroject was coded using Visual Studio Code. A clone of this repsository is stored locally, and the changes were deployed directly in the master branch using clear commit meassages. 
+   - Commands used to deploy changes: git add, git commit -m "message", git push. 
+
+
+## Credits
+
+### Media
+
+   - Photos were downloaded from pexels.com
+
+### Fonts and Colors
+
+   - Used Google Fonts in this project
+   - Color coordination was picked from coolors.co
+   - Icons were taken from fontawesome.com 
+
+### Acknowldgments
+ 
+   - I received inspiration for this project from the Code institute projects such as Love running, Whiskey drop and Personal resume. 
