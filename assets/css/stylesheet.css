@@ -212,55 +212,21 @@ footer h5 {
     color: #6d6875;
 }
 
-.monday {
-    background-color: #f8edeb;
-    color: #6d6875;
-}
-
-.tuesday {
-    background-color: #f9dcc4;
-    color: #6d6875;
-}
-
-.wednesday {
-    background-color: #f8edeb;
-    color: #6d6875;
-}
-
-.thursday {
-    background-color: #f9dcc4;
-    color: #6d6875;
-}
-
-.friday {
-    background-color: #f8edeb;
-    color: #6d6875;
-}
-
-.saturday {
-    background-color: #f9dcc4;
-    color: #6d6875;
-}
-
+.monday,
+.wednesday,
+.friday,
 .sunday {
     background-color: #f8edeb;
     color: #6d6875;
 }
 
-.hero-image2 {
-    background: url("../images/hero-image2.jpg");
-    position: relative;
-    background-size: cover;
-    background-position: center;
-    background-color: rgb(0, 0, 0, 0.5);
-    height: 90vh;
-    width: 100%;
-    display: block;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
+.tuesday,
+.thursday,
+.saturday {
+    background-color: #f9dcc4;
+    color: #6d6875;
 }
+
 
 /* -------------- Sign Up --------------- */
 
