@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&display=swap');
 
-
-
 /* --------- Header --------- */
 
 header {
@@ -46,7 +44,6 @@ header {
 .float-right {
     float: right;
 }
-
 
 /* --------- Hero Image --------- */
 
@@ -103,8 +100,6 @@ body {
     color: #6d6875;
 }
 
-
-
 /* --------- Footer --------- */
 
 footer {
@@ -159,7 +154,6 @@ footer h5 {
     text-transform: uppercase;
 }
 
-
 /* -------------- Contact Info --------------- */
 
 .contact-info-item {
@@ -204,7 +198,6 @@ footer h5 {
     margin-bottom: .6rem;
 }
 
-
 /* -------------- Table --------------- */
 
 .thead {
@@ -226,7 +219,6 @@ footer h5 {
     background-color: #f9dcc4;
     color: #6d6875;
 }
-
 
 /* -------------- Sign Up --------------- */
 
