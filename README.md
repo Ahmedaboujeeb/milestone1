@@ -8,6 +8,8 @@ Gym members can find information about the different group training classes, tim
 
 ## UX
 
+Link to [Wireframes](https://github.com/ahmedaboujeeb/milestone1/blob/master/assets/wireframes/Milestone1%20mockup.pdf). 
+
 #### As a gym memeber...
 
 
@@ -24,7 +26,10 @@ Gym members can find information about the different group training classes, tim
 
 ## Feature
 
-
+- Navigation menu to go between Home, Classes and Sign Up pages. 
+- Click on the logo to go back to "Home" page.
+- Click on the phone number to call directly from phone.
+- Sign Up form to fill in Name, Phone number, Email address and Comments then click Submit.
 
 ## Technologies Used
 
@@ -50,6 +55,20 @@ Gym members can find information about the different group training classes, tim
 
 
 ## Testing
+
+- HTML code passed validator.w3.org successfully. 
+- CSS code passed validator.w3.org successfully.
+- The website fuctions perfectly on Chrome and Safari (MacBook + iphone).
+- The webiste is responsive on mutiple devices. 
+- Testing plan succeeded. 
+   - Click on logo to return to home.
+   - Links on navbar.
+   - Links on footer.
+   - Click on phone number to call directly from device.
+   - Classes table responsive on phone. 
+   - The form fields show error indicators e.g. email address not in the correct format.
+   - Navbar toggle - click on navrbar toggle to expand the menu bar. 
+
 
 
 ## Deployment
