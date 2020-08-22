@@ -24,7 +24,7 @@ Link to [Wireframes](https://github.com/ahmedaboujeeb/milestone1/blob/master/ass
 - I want to sign up with the gym online so I can save time.
 - I want to see what gym mambers are syaing about the gym so I can know more about the gym.
 
-## Feature
+## Features
 
 - Navigation menu to go between Home, Classes and Sign Up pages. 
 - Click on the logo to go back to "Home" page.
@@ -68,6 +68,7 @@ Link to [Wireframes](https://github.com/ahmedaboujeeb/milestone1/blob/master/ass
    - Classes table responsive on phone. 
    - The form fields show error indicators e.g. email address not in the correct format.
    - Navbar toggle - click on navrbar toggle to expand the menu bar. 
+   - Navigate between pages. 
 
 
 
@@ -76,6 +77,7 @@ Link to [Wireframes](https://github.com/ahmedaboujeeb/milestone1/blob/master/ass
    - This project's repository is hosted on GitHub link to repository (https://github.com/ahmedaboujeeb/milestone1). 
    - This peroject was coded using Visual Studio Code. A clone of this repsository is stored locally, and the changes were deployed directly in the master branch using clear commit meassages. 
    - Commands used to deploy changes: git add, git commit -m "message", git push. 
+   - The website is hosted on GitHub Pages, and published at https://ahmedaboujeeb.github.io/milestone1/.
 
 
 ## Credits
