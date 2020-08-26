@@ -30,6 +30,8 @@ Link to [Wireframes](https://github.com/ahmedaboujeeb/milestone1/blob/master/ass
 - Click on the logo to go back to "Home" page.
 - Click on the phone number to call directly from phone.
 - Sign Up form to fill in Name, Phone number, Email address and Comments then click Submit.
+- Click on "CLICK HERE TO JOIN US" in the footer to go to the sign up form. 
+- Click on social media icons to visit the social media page. 
 
 ## Technologies Used
 
@@ -58,14 +60,15 @@ Link to [Wireframes](https://github.com/ahmedaboujeeb/milestone1/blob/master/ass
 
 - HTML code passed validator.w3.org successfully. 
 - CSS code passed validator.w3.org successfully.
-- The website fuctions perfectly on Chrome and Safari (MacBook + iphone).
-- The webiste is responsive on mutiple devices. 
+- The website fuctions perfectly on Chrome, Mozilla and Safari (MacBook + iphone).
+- The webiste is responsive on mutiple devices with multiple sizes e.g. iphone 6/7/8 (plus), Galaxy S5 etc.
 - Testing plan succeeded. 
    - Click on logo to return to home.
    - Links on navbar.
    - Links on footer.
    - Click on phone number to call directly from device.
-   - Classes table responsive on phone. 
+   - Click back and forward between the pages won't brake the site.
+   - Classes table responsive on different phone sizes. 
    - The form fields show error indicators e.g. email address not in the correct format.
    - Navbar toggle - click on navrbar toggle to expand the menu bar. 
    - Navigate between pages. 
